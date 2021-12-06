@@ -152,3 +152,7 @@ code .
 ```
 
 Then follow instructions from project readme.
+
+## Tips
+
+- You can type `explorer.exe .` right in your ubuntu terminal to open folder in windows file explorer!
