@@ -68,7 +68,9 @@ npm i -g yarn
 
 ### Docker
 
-[Install Docker](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository). Install dependencies:
+[@see](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository)
+
+Install dependencies:
 
 ```
 sudo apt-get install \
