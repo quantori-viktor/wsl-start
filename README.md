@@ -34,7 +34,7 @@ Install curl and wget:
 sudo apt install curl wget
 ```
 
-Install zsh (convenient shell):
+Install zsh (convenient shell, with super tab completion):
 
 ```
 sudo apt install zsh
