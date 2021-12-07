@@ -1,5 +1,7 @@
 # How to get started with WSL2
 
+The Unix terminal is superior to use over Window’s command line for developers. You would find many libraries developed natively for Linux. Also, a lot of programmers point out that the package manager on Linux helps them get things done easily. The ability of bash scripting is also one of the most compelling reasons why programmers prefer using Linux OS/Mac OS. Using many modern web tools (npm, gem) is a huge pain on Windows.
+
 ## Install WSL2
 
 If you have the latest updates of your OS, installation of WSL2 is a one-liner command (in PowerShell):
